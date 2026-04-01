@@ -17,10 +17,10 @@ description: >-
 ```markdown
 | PROJECT_NAME | PROJECT_PATH          |
 | ------------ | --------------------- |
-| a             | ~/service/apps/a |
-| b       | ~/service/apps/b |
-| c  | ~/c         |
-| d       | ~/d              |
+| senior       | ~/service/apps/senior |
+| komate       | ~/service/apps/komate |
+| career-feed  | ~/career-feed         |
+| begins       | ~/begins              |
 ```
 
 ### `LOG_PATH` (선택)
